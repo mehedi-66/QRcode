@@ -1,0 +1,39 @@
+﻿@model QRcode.Models.QRcodeModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome QRcode Generator</h1>
+
+    <form class="p-2" asp-controller="Home" asp-action="CreateQRcode" method="post">
+
+        <div class="row  mt-3">
+
+            <div class="col-4 mb-3">
+                <label asp-for="QRText" class="mb-1"> <b>QR Text</b></label>
+                <input asp-for="QRText" type="text" class="form-control" />
+            </div>  
+            <div class="col-4 mb-3">
+                <label asp-for="QRNumberStart" class="mb-1"> <b>Start Number</b></label>
+                <input asp-for="QRNumberStart" type="number" class="form-control" />
+            </div> 
+            
+            <div class="col-4 mb-3">
+                <label asp-for="QRNumberEnd" class="mb-1"> <b>End Number</b></label>
+                <input asp-for="QRNumberEnd" type="number" class="form-control" />
+            </div>  
+            <div class="col-2 mb-3">
+                <label asp-for="QRWidth" class="mb-1"> <b>Width (mm)</b></label>
+                <input asp-for="QRWidth" step="0.01" type="number" class="form-control" />
+            </div>
+
+            <div class="col-2 mb-3">
+                <label asp-for="QRHeight" class="mb-1"> <b>Height (mm)</b></label>
+                <input asp-for="QRHeight" step="0.01" type="number" class="form-control" />
+            </div>
+
+        </div>
+        <button class="btn btn-success mt-3 mb-3">Submit</button>
+    </form>
+</div>
