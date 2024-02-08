@@ -12,8 +12,8 @@ function App() {
     event.preventDefault();
 
     console.log(event.target.value);
-    axios.post('http://localhost:5000/create-pdf', reportData)
-      .then(() => axios.get('http://localhost:5000/fetch-pdf', { responseType: 'blob' }))
+    axios.post('http://localhost:84/create-pdf', reportData)
+      .then(() => axios.get('http://localhost:84/fetch-pdf', { responseType: 'blob' }))
       .then((res) => {
         const pdfBlob = new Blob([res.data], { type: 'application/pdf' });
         console.log(pdfBlob);
@@ -24,8 +24,8 @@ function App() {
   };
 
   const createAndDownloadPdf = () => {
-    axios.post('http://localhost:5000/create-pdf', reportData)
-      .then(() => axios.get('http://localhost:5000/fetch-pdf', { responseType: 'blob' }))
+    axios.post('http://localhost:84/create-pdf', reportData)
+      .then(() => axios.get('http://localhost:84/fetch-pdf', { responseType: 'blob' }))
       .then((res) => {
         const pdfBlob = new Blob([res.data], { type: 'application/pdf' });
         console.log(pdfBlob);
@@ -33,8 +33,8 @@ function App() {
       })
   }
   const createAndOpenPdf = () => {
-    axios.post('http://localhost:5000/create-pdf', reportData)
-      .then(() => axios.get('http://localhost:5000/fetch-pdf', { responseType: 'blob' }))
+    axios.post('http://localhost:84/create-pdf', reportData)
+      .then(() => axios.get('http://localhost:84/fetch-pdf', { responseType: 'blob' }))
       .then((res) => {
         const pdfBlob = new Blob([res.data], { type: 'application/pdf' });
        // Create a URL for the Blob

@@ -1,0 +1,94 @@
+Simple node server running on port \\.\pipe\a1cab0bc-8ca5-418f-b00c-5517d0954f63
+[
+  {
+    QRDate: '15/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300783999',
+    QRTime: '03:41'
+  },
+  {
+    QRDate: '15/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300784000',
+    QRTime: '03:41'
+  },
+  {
+    QRDate: '15/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300784001',
+    QRTime: '03:41'
+  },
+  {
+    QRDate: '15/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300784002',
+    QRTime: '03:41'
+  },
+  {
+    QRDate: '15/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300784003',
+    QRTime: '03:41'
+  },
+  {
+    QRDate: '15/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300784004',
+    QRTime: '03:41'
+  },
+  {
+    QRDate: '15/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300784005',
+    QRTime: '03:41'
+  },
+  {
+    QRDate: '15/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300784006',
+    QRTime: '03:41'
+  },
+  {
+    QRDate: '15/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300784007',
+    QRTime: '03:41'
+  },
+  {
+    QRDate: '15/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300784008',
+    QRTime: '03:41'
+  },
+  {
+    QRDate: '15/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300784009',
+    QRTime: '03:42'
+  },
+  {
+    QRDate: '15/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300784010',
+    QRTime: '03:42'
+  },
+  {
+    QRDate: '15/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300784011',
+    QRTime: '03:42'
+  }
+]
+QR code saved to: ./static/IM1012300783999.png
+QR code saved to: ./static/IM1012300784000.png
+QR code saved to: ./static/IM1012300784001.png
+QR code saved to: ./static/IM1012300784002.png
+QR code saved to: ./static/IM1012300784003.png
+QR code saved to: ./static/IM1012300784004.png
+QR code saved to: ./static/IM1012300784005.png
+QR code saved to: ./static/IM1012300784006.png
+QR code saved to: ./static/IM1012300784007.png
+QR code saved to: ./static/IM1012300784008.png
+QR code saved to: ./static/IM1012300784009.png
+QR code saved to: ./static/IM1012300784010.png
+QR code saved to: ./static/IM1012300784011.png

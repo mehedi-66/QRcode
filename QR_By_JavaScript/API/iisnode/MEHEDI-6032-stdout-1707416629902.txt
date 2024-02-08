@@ -1,0 +1,1405 @@
+Simple node server running on port \\.\pipe\99e16b9b-4442-4876-b374-f4abf3e711b2
+[
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787001',
+    QRTime: '10:10'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787002',
+    QRTime: '10:10'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787003',
+    QRTime: '10:10'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787004',
+    QRTime: '10:10'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787005',
+    QRTime: '10:10'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787006',
+    QRTime: '10:10'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787007',
+    QRTime: '10:10'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787008',
+    QRTime: '10:10'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787009',
+    QRTime: '10:10'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787010',
+    QRTime: '10:10'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787011',
+    QRTime: '10:11'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787012',
+    QRTime: '10:11'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787013',
+    QRTime: '10:11'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787014',
+    QRTime: '10:11'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787015',
+    QRTime: '10:11'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787016',
+    QRTime: '10:11'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787017',
+    QRTime: '10:11'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787018',
+    QRTime: '10:11'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787019',
+    QRTime: '10:11'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787020',
+    QRTime: '10:11'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787021',
+    QRTime: '10:12'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787022',
+    QRTime: '10:12'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787023',
+    QRTime: '10:12'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787024',
+    QRTime: '10:12'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787025',
+    QRTime: '10:12'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787026',
+    QRTime: '10:12'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787027',
+    QRTime: '10:12'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787028',
+    QRTime: '10:12'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787029',
+    QRTime: '10:12'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787030',
+    QRTime: '10:12'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787031',
+    QRTime: '10:13'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787032',
+    QRTime: '10:13'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787033',
+    QRTime: '10:13'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787034',
+    QRTime: '10:13'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787035',
+    QRTime: '10:13'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787036',
+    QRTime: '10:13'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787037',
+    QRTime: '10:13'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787038',
+    QRTime: '10:13'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787039',
+    QRTime: '10:13'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787040',
+    QRTime: '10:13'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787041',
+    QRTime: '10:14'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787042',
+    QRTime: '10:14'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787043',
+    QRTime: '10:14'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787044',
+    QRTime: '10:14'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787045',
+    QRTime: '10:14'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787046',
+    QRTime: '10:14'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787047',
+    QRTime: '10:14'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787048',
+    QRTime: '10:14'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787049',
+    QRTime: '10:14'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787050',
+    QRTime: '10:14'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787051',
+    QRTime: '10:15'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787052',
+    QRTime: '10:15'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787053',
+    QRTime: '10:15'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787054',
+    QRTime: '10:15'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787055',
+    QRTime: '10:15'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787056',
+    QRTime: '10:15'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787057',
+    QRTime: '10:15'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787058',
+    QRTime: '10:15'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787059',
+    QRTime: '10:15'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787060',
+    QRTime: '10:15'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787061',
+    QRTime: '10:16'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787062',
+    QRTime: '10:16'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787063',
+    QRTime: '10:16'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787064',
+    QRTime: '10:16'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787065',
+    QRTime: '10:16'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787066',
+    QRTime: '10:16'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787067',
+    QRTime: '10:16'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787068',
+    QRTime: '10:16'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787069',
+    QRTime: '10:16'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787070',
+    QRTime: '10:16'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787071',
+    QRTime: '10:17'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787072',
+    QRTime: '10:17'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787073',
+    QRTime: '10:17'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787074',
+    QRTime: '10:17'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787075',
+    QRTime: '10:17'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787076',
+    QRTime: '10:17'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787077',
+    QRTime: '10:17'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787078',
+    QRTime: '10:17'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787079',
+    QRTime: '10:17'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787080',
+    QRTime: '10:17'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787081',
+    QRTime: '10:18'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787082',
+    QRTime: '10:18'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787083',
+    QRTime: '10:18'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787084',
+    QRTime: '10:18'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787085',
+    QRTime: '10:18'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787086',
+    QRTime: '10:18'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787087',
+    QRTime: '10:18'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787088',
+    QRTime: '10:18'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787089',
+    QRTime: '10:18'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787090',
+    QRTime: '10:18'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787091',
+    QRTime: '10:19'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787092',
+    QRTime: '10:19'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787093',
+    QRTime: '10:19'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787094',
+    QRTime: '10:19'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787095',
+    QRTime: '10:19'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787096',
+    QRTime: '10:19'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787097',
+    QRTime: '10:19'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787098',
+    QRTime: '10:19'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787099',
+    QRTime: '10:19'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787100',
+    QRTime: '10:19'
+  }
+]
+QR code saved to: ./static/IM1012300787003.png
+QR code saved to: ./static/IM1012300787001.png
+QR code saved to: ./static/IM1012300787004.png
+QR code saved to: ./static/IM1012300787005.png
+QR code saved to: ./static/IM1012300787006.png
+QR code saved to: ./static/IM1012300787007.png
+QR code saved to: ./static/IM1012300787008.png
+QR code saved to: ./static/IM1012300787009.png
+QR code saved to: ./static/IM1012300787010.png
+QR code saved to: ./static/IM1012300787011.png
+QR code saved to: ./static/IM1012300787012.png
+QR code saved to: ./static/IM1012300787013.png
+QR code saved to: ./static/IM1012300787014.png
+QR code saved to: ./static/IM1012300787015.png
+QR code saved to: ./static/IM1012300787016.png
+QR code saved to: ./static/IM1012300787017.png
+QR code saved to: ./static/IM1012300787018.png
+QR code saved to: ./static/IM1012300787019.png
+QR code saved to: ./static/IM1012300787020.png
+QR code saved to: ./static/IM1012300787021.png
+QR code saved to: ./static/IM1012300787023.png
+QR code saved to: ./static/IM1012300787025.png
+QR code saved to: ./static/IM1012300787024.png
+QR code saved to: ./static/IM1012300787026.png
+QR code saved to: ./static/IM1012300787027.png
+QR code saved to: ./static/IM1012300787022.png
+QR code saved to: ./static/IM1012300787029.png
+QR code saved to: ./static/IM1012300787028.png
+QR code saved to: ./static/IM1012300787031.png
+QR code saved to: ./static/IM1012300787032.png
+QR code saved to: ./static/IM1012300787033.png
+QR code saved to: ./static/IM1012300787034.png
+QR code saved to: ./static/IM1012300787035.png
+QR code saved to: ./static/IM1012300787036.png
+QR code saved to: ./static/IM1012300787037.png
+QR code saved to: ./static/IM1012300787038.png
+QR code saved to: ./static/IM1012300787039.png
+QR code saved to: ./static/IM1012300787030.png
+QR code saved to: ./static/IM1012300787040.png
+QR code saved to: ./static/IM1012300787041.png
+QR code saved to: ./static/IM1012300787043.png
+QR code saved to: ./static/IM1012300787002.png
+QR code saved to: ./static/IM1012300787044.png
+QR code saved to: ./static/IM1012300787045.png
+QR code saved to: ./static/IM1012300787047.png
+QR code saved to: ./static/IM1012300787046.png
+QR code saved to: ./static/IM1012300787042.png
+QR code saved to: ./static/IM1012300787049.png
+QR code saved to: ./static/IM1012300787048.png
+QR code saved to: ./static/IM1012300787052.png
+QR code saved to: ./static/IM1012300787053.png
+QR code saved to: ./static/IM1012300787051.png
+QR code saved to: ./static/IM1012300787054.png
+QR code saved to: ./static/IM1012300787055.png
+QR code saved to: ./static/IM1012300787050.png
+QR code saved to: ./static/IM1012300787057.png
+QR code saved to: ./static/IM1012300787058.png
+QR code saved to: ./static/IM1012300787059.png
+QR code saved to: ./static/IM1012300787056.png
+QR code saved to: ./static/IM1012300787060.png
+QR code saved to: ./static/IM1012300787062.png
+QR code saved to: ./static/IM1012300787063.png
+QR code saved to: ./static/IM1012300787064.png
+QR code saved to: ./static/IM1012300787065.png
+QR code saved to: ./static/IM1012300787066.png
+QR code saved to: ./static/IM1012300787061.png
+QR code saved to: ./static/IM1012300787067.png
+QR code saved to: ./static/IM1012300787068.png
+QR code saved to: ./static/IM1012300787069.png
+QR code saved to: ./static/IM1012300787072.png
+QR code saved to: ./static/IM1012300787070.png
+QR code saved to: ./static/IM1012300787073.png
+QR code saved to: ./static/IM1012300787074.png
+QR code saved to: ./static/IM1012300787075.png
+QR code saved to: ./static/IM1012300787076.png
+QR code saved to: ./static/IM1012300787077.png
+QR code saved to: ./static/IM1012300787078.png
+QR code saved to: ./static/IM1012300787071.png
+QR code saved to: ./static/IM1012300787079.png
+QR code saved to: ./static/IM1012300787080.png
+QR code saved to: ./static/IM1012300787081.png
+QR code saved to: ./static/IM1012300787082.png
+QR code saved to: ./static/IM1012300787084.png
+QR code saved to: ./static/IM1012300787085.png
+QR code saved to: ./static/IM1012300787083.png
+QR code saved to: ./static/IM1012300787086.png
+QR code saved to: ./static/IM1012300787087.png
+QR code saved to: ./static/IM1012300787088.png
+QR code saved to: ./static/IM1012300787090.png
+QR code saved to: ./static/IM1012300787092.png
+QR code saved to: ./static/IM1012300787091.png
+QR code saved to: ./static/IM1012300787093.png
+QR code saved to: ./static/IM1012300787094.png
+QR code saved to: ./static/IM1012300787096.png
+QR code saved to: ./static/IM1012300787098.png
+QR code saved to: ./static/IM1012300787089.png
+QR code saved to: ./static/IM1012300787100.png
+QR code saved to: ./static/IM1012300787099.png
+QR code saved to: ./static/IM1012300787097.png
+QR code saved to: ./static/IM1012300787095.png
+[
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787001',
+    QRTime: '10:10'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787002',
+    QRTime: '10:10'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787003',
+    QRTime: '10:10'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787004',
+    QRTime: '10:10'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787005',
+    QRTime: '10:10'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787006',
+    QRTime: '10:10'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787007',
+    QRTime: '10:10'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787008',
+    QRTime: '10:10'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787009',
+    QRTime: '10:10'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787010',
+    QRTime: '10:10'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787011',
+    QRTime: '10:11'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787012',
+    QRTime: '10:11'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787013',
+    QRTime: '10:11'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787014',
+    QRTime: '10:11'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787015',
+    QRTime: '10:11'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787016',
+    QRTime: '10:11'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787017',
+    QRTime: '10:11'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787018',
+    QRTime: '10:11'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787019',
+    QRTime: '10:11'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787020',
+    QRTime: '10:11'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787021',
+    QRTime: '10:12'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787022',
+    QRTime: '10:12'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787023',
+    QRTime: '10:12'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787024',
+    QRTime: '10:12'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787025',
+    QRTime: '10:12'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787026',
+    QRTime: '10:12'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787027',
+    QRTime: '10:12'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787028',
+    QRTime: '10:12'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787029',
+    QRTime: '10:12'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787030',
+    QRTime: '10:12'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787031',
+    QRTime: '10:13'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787032',
+    QRTime: '10:13'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787033',
+    QRTime: '10:13'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787034',
+    QRTime: '10:13'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787035',
+    QRTime: '10:13'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787036',
+    QRTime: '10:13'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787037',
+    QRTime: '10:13'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787038',
+    QRTime: '10:13'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787039',
+    QRTime: '10:13'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787040',
+    QRTime: '10:13'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787041',
+    QRTime: '10:14'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787042',
+    QRTime: '10:14'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787043',
+    QRTime: '10:14'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787044',
+    QRTime: '10:14'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787045',
+    QRTime: '10:14'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787046',
+    QRTime: '10:14'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787047',
+    QRTime: '10:14'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787048',
+    QRTime: '10:14'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787049',
+    QRTime: '10:14'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787050',
+    QRTime: '10:14'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787051',
+    QRTime: '10:15'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787052',
+    QRTime: '10:15'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787053',
+    QRTime: '10:15'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787054',
+    QRTime: '10:15'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787055',
+    QRTime: '10:15'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787056',
+    QRTime: '10:15'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787057',
+    QRTime: '10:15'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787058',
+    QRTime: '10:15'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787059',
+    QRTime: '10:15'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787060',
+    QRTime: '10:15'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787061',
+    QRTime: '10:16'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787062',
+    QRTime: '10:16'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787063',
+    QRTime: '10:16'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787064',
+    QRTime: '10:16'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787065',
+    QRTime: '10:16'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787066',
+    QRTime: '10:16'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787067',
+    QRTime: '10:16'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787068',
+    QRTime: '10:16'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787069',
+    QRTime: '10:16'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787070',
+    QRTime: '10:16'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787071',
+    QRTime: '10:17'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787072',
+    QRTime: '10:17'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787073',
+    QRTime: '10:17'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787074',
+    QRTime: '10:17'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787075',
+    QRTime: '10:17'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787076',
+    QRTime: '10:17'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787077',
+    QRTime: '10:17'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787078',
+    QRTime: '10:17'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787079',
+    QRTime: '10:17'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787080',
+    QRTime: '10:17'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787081',
+    QRTime: '10:18'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787082',
+    QRTime: '10:18'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787083',
+    QRTime: '10:18'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787084',
+    QRTime: '10:18'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787085',
+    QRTime: '10:18'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787086',
+    QRTime: '10:18'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787087',
+    QRTime: '10:18'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787088',
+    QRTime: '10:18'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787089',
+    QRTime: '10:18'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787090',
+    QRTime: '10:18'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787091',
+    QRTime: '10:19'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787092',
+    QRTime: '10:19'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787093',
+    QRTime: '10:19'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787094',
+    QRTime: '10:19'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787095',
+    QRTime: '10:19'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787096',
+    QRTime: '10:19'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787097',
+    QRTime: '10:19'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787098',
+    QRTime: '10:19'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787099',
+    QRTime: '10:19'
+  },
+  {
+    QRDate: '13/02/2024',
+    QRTextOnly: 'IM',
+    QRText: 'IM1012300787100',
+    QRTime: '10:19'
+  }
+]
+QR code saved to: ./static/IM1012300787001.png
+QR code saved to: ./static/IM1012300787002.png
+QR code saved to: ./static/IM1012300787003.png
+QR code saved to: ./static/IM1012300787004.png
+QR code saved to: ./static/IM1012300787005.png
+QR code saved to: ./static/IM1012300787006.png
+QR code saved to: ./static/IM1012300787007.png
+QR code saved to: ./static/IM1012300787008.png
+QR code saved to: ./static/IM1012300787009.png
+QR code saved to: ./static/IM1012300787010.png
+QR code saved to: ./static/IM1012300787011.png
+QR code saved to: ./static/IM1012300787012.png
+QR code saved to: ./static/IM1012300787013.png
+QR code saved to: ./static/IM1012300787014.png
+QR code saved to: ./static/IM1012300787015.png
+QR code saved to: ./static/IM1012300787016.png
+QR code saved to: ./static/IM1012300787017.png
+QR code saved to: ./static/IM1012300787018.png
+QR code saved to: ./static/IM1012300787019.png
+QR code saved to: ./static/IM1012300787020.png
+QR code saved to: ./static/IM1012300787021.png
+QR code saved to: ./static/IM1012300787022.png
+QR code saved to: ./static/IM1012300787023.png
+QR code saved to: ./static/IM1012300787024.png
+QR code saved to: ./static/IM1012300787025.png
+QR code saved to: ./static/IM1012300787026.png
+QR code saved to: ./static/IM1012300787027.png
+QR code saved to: ./static/IM1012300787028.png
+QR code saved to: ./static/IM1012300787029.png
+QR code saved to: ./static/IM1012300787030.png
+QR code saved to: ./static/IM1012300787031.png
+QR code saved to: ./static/IM1012300787032.png
+QR code saved to: ./static/IM1012300787033.png
+QR code saved to: ./static/IM1012300787034.png
+QR code saved to: ./static/IM1012300787035.png
+QR code saved to: ./static/IM1012300787036.png
+QR code saved to: ./static/IM1012300787037.png
+QR code saved to: ./static/IM1012300787038.png
+QR code saved to: ./static/IM1012300787039.png
+QR code saved to: ./static/IM1012300787040.png
+QR code saved to: ./static/IM1012300787041.png
+QR code saved to: ./static/IM1012300787042.png
+QR code saved to: ./static/IM1012300787043.png
+QR code saved to: ./static/IM1012300787044.png
+QR code saved to: ./static/IM1012300787045.png
+QR code saved to: ./static/IM1012300787046.png
+QR code saved to: ./static/IM1012300787047.png
+QR code saved to: ./static/IM1012300787048.png
+QR code saved to: ./static/IM1012300787049.png
+QR code saved to: ./static/IM1012300787050.png
+QR code saved to: ./static/IM1012300787051.png
+QR code saved to: ./static/IM1012300787052.png
+QR code saved to: ./static/IM1012300787053.png
+QR code saved to: ./static/IM1012300787054.png
+QR code saved to: ./static/IM1012300787055.png
+QR code saved to: ./static/IM1012300787056.png
+QR code saved to: ./static/IM1012300787057.png
+QR code saved to: ./static/IM1012300787058.png
+QR code saved to: ./static/IM1012300787059.png
+QR code saved to: ./static/IM1012300787060.png
+QR code saved to: ./static/IM1012300787061.png
+QR code saved to: ./static/IM1012300787062.png
+QR code saved to: ./static/IM1012300787063.png
+QR code saved to: ./static/IM1012300787064.png
+QR code saved to: ./static/IM1012300787065.png
+QR code saved to: ./static/IM1012300787066.png
+QR code saved to: ./static/IM1012300787067.png
+QR code saved to: ./static/IM1012300787068.png
+QR code saved to: ./static/IM1012300787069.png
+QR code saved to: ./static/IM1012300787070.png
+QR code saved to: ./static/IM1012300787071.png
+QR code saved to: ./static/IM1012300787072.png
+QR code saved to: ./static/IM1012300787073.png
+QR code saved to: ./static/IM1012300787074.png
+QR code saved to: ./static/IM1012300787075.png
+QR code saved to: ./static/IM1012300787076.png
+QR code saved to: ./static/IM1012300787077.png
+QR code saved to: ./static/IM1012300787078.png
+QR code saved to: ./static/IM1012300787079.png
+QR code saved to: ./static/IM1012300787080.png
+QR code saved to: ./static/IM1012300787081.png
+QR code saved to: ./static/IM1012300787082.png
+QR code saved to: ./static/IM1012300787083.png
+QR code saved to: ./static/IM1012300787084.png
+QR code saved to: ./static/IM1012300787085.png
+QR code saved to: ./static/IM1012300787087.png
+QR code saved to: ./static/IM1012300787086.png
+QR code saved to: ./static/IM1012300787088.png
+QR code saved to: ./static/IM1012300787089.png
+QR code saved to: ./static/IM1012300787090.png
+QR code saved to: ./static/IM1012300787091.png
+QR code saved to: ./static/IM1012300787092.png
+QR code saved to: ./static/IM1012300787093.png
+QR code saved to: ./static/IM1012300787094.png
+QR code saved to: ./static/IM1012300787095.png
+QR code saved to: ./static/IM1012300787096.png
+QR code saved to: ./static/IM1012300787097.png
+QR code saved to: ./static/IM1012300787098.png
+QR code saved to: ./static/IM1012300787099.png
+QR code saved to: ./static/IM1012300787100.png

@@ -143,13 +143,13 @@ module.exports = (data) => {
         </head>
         <body>
         ${data.map(el => `
-           <div class="invoice-box" style="margin-bottom: 173px;">
+           <div class="invoice-box" style="margin-bottom: 159px;">
 
            <table>
 
             <tr>
                 <td> <div style="width: 100px;">
-                <img class="rotateImg"  src="http://localhost:5000/static/leftLogo.png"
+                <img class="rotateImg"  src="http://localhost:84/static/leftLogo.jpg"
                 style="width:100%; max-width:92px; max-height: 72px; margin: -13px 0px 0px 48px;">
              </div></td>
                 <td colspan="2" class="tCenter"><div style="width: 100%; margin:  0px 0px 0px 0px;">
@@ -160,7 +160,7 @@ module.exports = (data) => {
                 <h3 class="hbttm" style="text-align: center; margin: 10px 0px;"> Money Receipt </h3>
              </div></td>
                 <td> <div style="width: 100px;">
-                <img  src="http://localhost:5000/static/${el.QRText}.png"
+                <img  src="http://localhost:84/static/${el.QRText}.png"
                style="width: 100%; max-width: 80px; max-height: 90px; margin: -18px 0px 0px 0px;">
             </div> </td>
                
@@ -184,7 +184,7 @@ module.exports = (data) => {
             </tr>
             <tr>
                  <td>AIN</td>
-                 <td colspan="3" class="tLeft">10102483201</td>
+                 <td colspan="3" class="tLeft">101231937</td>
                  <td class="tCenter">Company</td>
                  <td colspan="7" class="tLeft">HA-MEEM DESIGN LTD</td>
              </tr>
@@ -214,18 +214,18 @@ module.exports = (data) => {
              
              <tr>
                  <td style="font-size: 13px;">Welfare Fund</td>
-                 <td colspan="3" class="tRight">80.00</td>
+                 <td colspan="3" class="tRight">110.00</td>
                  <td>Grants</td>
-                 <td colspan="2" class="tRight">0.00</td>
+                 <td colspan="2" class="tRight">10.00</td>
                  <td>Sample</td>
                  <td class="tRight">0.00</td>
                  <td class="tRight">Total</td>
-                 <td colspan="2" class="tRight">100.00</td>
+                 <td colspan="2" class="tRight">140.00</td>
              </tr>
              
              <tr>
                  <td>In words</td>
-                 <td style ="width: 100px" colspan="6" class="tLeft">One Hundred Zero taka only</td>
+                 <td style ="width: 100px" colspan="6" class="tLeft">One Hundred forty taka only</td>
                  <td colspan="2" class="tRight">Representative</td>
                  <td colspan="3"></td>
                 
@@ -241,7 +241,7 @@ module.exports = (data) => {
          </table>
          <p style="font-size: 1; font-weight: bold; padding-right: 40px; margin-top: 30px; margin-bottom: 40px;" class="f10 tRight">It's Computer generated Money Receipt, so no need to Signature</p>
          <div>
-            <img  src="http://localhost:5000/static/bttmLogo.jpg"
+            <img  src="http://localhost:84/static/bttmLogo.jpg"
            style="display: block;  margin-left: auto; max-width: 304px; max-height: 90px; margin-right: -43px;">
         </div> 
           </div>

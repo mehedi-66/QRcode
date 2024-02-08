@@ -60,7 +60,7 @@ async function run() {
           
             // Header options
             "header": {
-              "height": "60px",
+              "height": "77px",
               "contents": ''
             },
           

@@ -1,0 +1,13 @@
+(node:6032) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+TypeError: Cannot read properties of undefined (reading 'split')
+    at H:\QRcode\QR_By_JavaScript\API\index.js:82:39
+    at Layer.handle [as handle_request] (H:\QRcode\QR_By_JavaScript\API\node_modules\express\lib\router\layer.js:95:5)
+    at next (H:\QRcode\QR_By_JavaScript\API\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (H:\QRcode\QR_By_JavaScript\API\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (H:\QRcode\QR_By_JavaScript\API\node_modules\express\lib\router\layer.js:95:5)
+    at H:\QRcode\QR_By_JavaScript\API\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (H:\QRcode\QR_By_JavaScript\API\node_modules\express\lib\router\index.js:346:12)
+    at next (H:\QRcode\QR_By_JavaScript\API\node_modules\express\lib\router\index.js:280:10)
+    at jsonParser (H:\QRcode\QR_By_JavaScript\API\node_modules\body-parser\lib\types\json.js:104:7)
+    at Layer.handle [as handle_request] (H:\QRcode\QR_By_JavaScript\API\node_modules\express\lib\router\layer.js:95:5)
