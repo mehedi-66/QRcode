@@ -1,0 +1,234 @@
+<!doctype html>
+     <html>
+        <head>
+           <meta charset="utf-8">
+           <title>PDF Result Template</title>
+           <style>
+              .invoice-box {
+              max-width: 900px;
+              margin: auto;
+              padding: 10px;
+              border: 1px solid #eee;
+              box-shadow: 0 0 10px rgba(0, 0, 0, .15);
+              font-size: 15x;
+              line-height: 15px;
+              font-family: 'Helvetica Neue', 'Helvetica',
+              color: #555;
+              }
+              .margin-top {
+              margin-top: 10px;
+              }
+              .justify-center {
+              text-align: center;
+              }
+              .invoice-box table {
+              width: 100%;
+              line-height: inherit;
+              text-align: left;
+              }
+              .invoice-box table td {
+              padding: 3px;
+              vertical-align: top;
+              }
+              .invoice-box table tr td:nth-child(2) {
+              text-align: right;
+              }
+              .invoice-box table tr.top table td {
+              padding-bottom: 10px;
+              }
+              .invoice-box table tr.top table td.title {
+              font-size: 120px;
+              line-height: 20px;
+              color: #333;
+              }
+              .invoice-box table tr.information table td {
+              padding-bottom: 20px;
+              }
+              .invoice-box table tr.heading td {
+              background: #eee;
+              border-bottom: 1px solid #ddd;
+              font-weight: bold;
+              }
+              .invoice-box table tr.details td {
+              padding-bottom: 20px;
+              }
+              .invoice-box table tr.item td {
+              border-bottom: 1px solid #eee;
+              }
+              .invoice-box table tr.item.last td {
+              border-bottom: none;
+              }
+              .invoice-box table tr.total td:nth-child(2) {
+              border-top: 2px solid #eee;
+              font-weight: bold;
+              }
+              @media only screen and (max-width: 600px) {
+              .invoice-box table tr.top table td {
+              width: 100%;
+              display: block;
+              text-align: center;
+              }
+              .invoice-box table tr.information table td {
+              width: 100%;
+              display: block;
+              text-align: center;
+              }
+              }
+ 
+              #myTable {
+                border-collapse: collapse; /* Combines borders of adjacent cells */
+                border: 1px solid black; /* Adds a border to the table */
+                text-align: left;
+            }
+            
+            #myTable th, #myTable td {
+                border: 1px solid black; /* Adds a border to table cells */
+                padding: 5px; /* Adds padding to cells for spacing */
+                text-align: left;
+            }
+           </style>
+        </head>
+        <body>
+           <div class="invoice-box">
+           <!-- <h4 style="text-align: right;">  Date: ${`${today.getDate()}. ${today.getMonth() + 1}. ${today.getFullYear()}.`}</h4> -->
+           <div>
+              <div>
+                <h1 style="text-align: center"> Ha-Meem Group</h1>
+                <h2 style="text-align: center">  C And F Unit: Ha-Meem Design LTD</h2>
+                <h4 style="text-align: center"> A Leading Garmentd Manufacturer in Bangladesh</h4>
+                <h4 style="text-align: center"> Corporate Office</h4>
+
+              </div>
+              <div>
+                <p style="text-align: right"> Bill No: HDLAEPZ/234858</p>
+              </div>            
+             <div>
+                <h2 style="text-align: center"> C & F Bill For  DEPZ</h2>
+
+                <h2 style="text-align: center"> Unit: Artistic Design Limited </h2>
+     
+             </div>
+             
+             
+            </div>
+            <table id="myTable">
+
+                <tr>
+                    <td>A</td>
+                    <td>REF No </td>
+                    <td> 239</td>
+                    <td>Unit</td>
+                    <td></td>
+                    <td>L/C No:</td>
+                    <td>12894</td>
+                    <td>Invoice</td>
+                    <td>26739</td>
+                </tr>
+                <tr>
+                    <td>B</td>
+                    <td colspan="2">Bill of Entry No-IM-7:</td>
+                    <td>16388</td>
+                    <td> Date</td>
+                    <td>12/11/23</td>
+                    <td> Delivery Date</td>
+                    <td colspan="3"> 12/12/23</td>
+                </tr>
+                <tr>
+                    <td>C</td>
+                    <td colspan="2">Shipping Bill No EX 1: </td>
+                    <td></td>
+                    <td> Date</td>
+                    <td></td>
+                    <td></td>
+
+                </tr>
+                <tr>
+                    <td> D</td>
+                    <td> carton</td>
+                    <td> 12 </td>
+                    <td> KGS</td>
+                    <td> 515</td>
+                </tr>
+            </table><br><br><br>
+          
+          
+             <table id="myTable">
+ 
+          
+      
+            <th>SL</th>
+            <th> Purpose</th>
+            <th colspan="2"> </th>
+            <tr>
+                <td>1</td>
+                <td>VAT</td>
+                <td>TK</td>
+                <td>286.00</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Miscellaneous of Customs and Port Handling IM-7</td>
+                <td>TK</td>
+                <td>286.00</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Miscellaneous of Customs and Port Handling EX-1</td>
+                <td>TK</td>
+                <td>286.00</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>Association + Photocopy  (210 + 50  )</td>
+                <td>TK</td>
+                <td>286.00</td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>Transport  </td>
+                <td>TK</td>
+                <td>286.00</td>
+            </tr>
+            <tr>
+                <td>6</td>
+                <td>Part Delivery       </td>
+                <td>TK</td>
+                <td>286.00</td>
+            </tr>
+            <tr>
+                <td>7</td>
+                <td>Loading and Unloading</td>
+                <td>TK</td>
+                <td>286.00</td>
+            </tr>
+            <tr>
+                <td colspan="2">Total Amount</td>
+               
+                <td>TK</td>
+                <td>286.00</td>
+            </tr>
+          
+     
+    
+        </table><br><br><br><br><br><br>
+        <div>
+            <p>
+                MD.IMAM HOSSAIN KHAN<br>
+                Manager : Commercial Department (C&F Section)<br>
+                ID NO:040648
+            </p>
+        </div><br><br><br><br><br>
+        <div>
+            <hr>
+            <p style="text-align: center"> 
+                387 (South), Tejgaon Industrial Area Dhaka-1208,<br>
+                Tel:  +880-2-8170592, +880-2-8170593 +880-2-8170583.<br>
+                 web:www.hameemgroup.net
+            </p>
+        </div>
+
+            
+           </div>
+        </body>
+     </html>
+www.hameemgroup.net

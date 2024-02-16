@@ -1,0 +1,13 @@
+.leftNav{
+    width: 150px;
+    /* border: 1px solid red; */
+    height: 100vh;
+    padding-left: 10px;
+    background: #efefef;
+}
+.contentMain{
+    width: 100%;
+    /* border: 1px solid #04811d; */
+    height: 100vh;
+    padding: 10px;
+}

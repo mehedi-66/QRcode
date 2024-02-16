@@ -1,0 +1,17 @@
+a{
+    text-decoration: none;
+}
+
+.homePage{
+    width: 300px;
+    margin: 27px auto;
+    border: 1px solid green;
+    border-radius: 7px;
+}
+li{
+    list-style: none;
+    margin: 10px;
+}
+a:hover{
+   color: blueviolet;
+}

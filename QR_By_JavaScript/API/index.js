@@ -7,8 +7,11 @@ const fs = require('fs');
 const pdfTemplate = require('./Template');
 const path = require('path');
 
+const baseUrl = 5000;
+// const baseUrl = 84;
+
 const app = express();
-const port = process.env.PORT || 5000;
+const port = process.env.PORT || baseUrl;
 
 //middleware
 app.use('/static', express.static(path.join(__dirname, 'static')));
