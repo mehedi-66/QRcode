@@ -7,9 +7,9 @@ module.exports = (data) => {
            <meta charset="utf-8">
            <title>PDF Result Template</title>
            <style>
-            html {
-                zoom: 1.26;
-                }
+           html {
+            zoom: 1.26;
+            }
               .invoice-box {
               max-width: 920px;
               margin: auto;
@@ -217,18 +217,18 @@ module.exports = (data) => {
              
              <tr>
                  <td style="font-size: 13px;">Welfare Fund</td>
-                 <td colspan="3" class="tRight">110.00</td>
+                 <td colspan="3" class="tRight">80.00</td>
                  <td>Grants</td>
-                 <td colspan="2" class="tRight">10.00</td>
+                 <td colspan="2" class="tRight">0.00</td>
                  <td>Sample</td>
                  <td class="tRight">0.00</td>
                  <td class="tRight">Total</td>
-                 <td colspan="2" class="tRight">140.00</td>
+                 <td colspan="2" class="tRight">100.00</td>
              </tr>
              
              <tr>
                  <td>In words</td>
-                 <td style ="width: 100px" colspan="6" class="tLeft">One Hundred forty taka only</td>
+                 <td style ="width: 100px" colspan="6" class="tLeft">One Hundred Zero taka only</td>
                  <td colspan="2" class="tRight">Representative</td>
                  <td colspan="3"></td>
                 

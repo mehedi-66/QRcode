@@ -8,7 +8,7 @@ function Billnav() {
         <nav className="">
           <div className="navbar-nav">
             <Link to="/billcreate" className="nav-item nav-link">Bill Create</Link>
-            <Link to="/bills" className="nav-item nav-link">Bills</Link>
+            <Link to="/billgrid" className="nav-item nav-link">Bills</Link>
             <Link to="/Billsammary" className="nav-item nav-link">Sammary</Link>
           </div>
         </nav>

@@ -127,6 +127,23 @@ async function run() {
             res.sendFile(`${__dirname}/result.pdf`)
         })
 
+        // **************** Non Air Bill **********
+        let NonAirBillList = [];
+        app.post('/createNonAirBill', (req, res) => {
+            let data = req.body;
+            NonAirBillList.push(data);
+            console.log(data);
+            console.log(NonAirBillList.length);
+
+            res.send(data);
+           
+        });
+        app.get('/getNonAirBills', (req, res) => {
+
+            res.send(NonAirBillList);
+        })
+
+
 
     }
 

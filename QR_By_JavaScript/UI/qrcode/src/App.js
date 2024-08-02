@@ -5,6 +5,7 @@ import Qr from './Component/QR/Qr';
 import Bill from './Component/Bill/Bill';
 import Layout from './Layout';
 import Billcreate from './Component/Bill/Billcreate'
+import Billgrid from './Component/Bill/Billgrid'
 
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
         <Route path="Qr" element={<Qr />} />
         <Route path="Bill" element={<Bill />} />
         <Route path="billcreate" element={<Billcreate />} />
+        <Route path="billgrid" element={<Billgrid />} />
       </Route>
     </Routes>
   </BrowserRouter>

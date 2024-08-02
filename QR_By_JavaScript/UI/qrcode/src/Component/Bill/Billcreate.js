@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import axios from 'axios';
 import './Billcreate.css';
 import Billnav from "./Billnav";
 
@@ -29,6 +30,9 @@ function Billcreate() {
         LoadingandUnloadingCost: '10'
     });
 
+    let baseUrl = 5000; 
+    // baseUrl = 84;
+
     const handleServiceBlur = (event) => {
         const value = event.target.value;
         const field = event.target.name;
@@ -38,6 +42,12 @@ function Billcreate() {
         console.log(newEnrollment);
         setTableInputData(newEnrollment);
     };
+    const submitHandler = ()=>{
+        axios.post(`http://localhost:${baseUrl}/createNonAirBill`, TableInputData)
+        .then((res) => {
+            console.log(res);
+        })
+    }
 
     let InputListDaynamic = [
         { CompanyName: 'Company' },
@@ -76,6 +86,10 @@ function Billcreate() {
 
 
                         <div className="billHeading">
+                            <div className="d-flex justify-content-end">
+                                <button type="button" className="btn btn-sm light btn-primary mx-5"
+                                onClick={submitHandler}>Submit</button>
+                            </div>
                             <p className="text-center"> {TableInputData.CompanyName}</p>
                             <p className="text-center"> Unit: {TableInputData.Unit} </p>
                             <p className="text-end"> Bill No: {TableInputData.BillNo}</p>
