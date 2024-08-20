@@ -7,9 +7,9 @@ module.exports = (data) => {
            <meta charset="utf-8">
            <title>PDF Result Template</title>
            <style>
-            html {
-                zoom: 1.26;
-                }
+           html {
+            zoom: 1.26;
+            }
               .invoice-box {
               max-width: 920px;
               margin: auto;
